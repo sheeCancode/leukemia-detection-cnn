@@ -25,6 +25,11 @@ This serves as a foundational research project in my journey toward AI/ML in Ped
 
 ## 🗂️ Dataset
 Dataset: ALL-IDB2  
+The dataset is categorized into four distinct morphological stages:
+1. **Benign** (Normal Lymphocytes)
+2. **Early** (Early-stage Lymphoblasts)
+3. **Pre** (Pre-B/T Lymphoblasts)
+4. **Pro** (Promyelocytic blasts)
 A publicly available, ethically-approved dataset of blood smear images.
 
 Contains:
