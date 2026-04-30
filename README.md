@@ -1,4 +1,4 @@
-# leukemia-detection-cnn
+leukemia-detection-cnn
 A deep learning research project using Convolutional Neural Networks (CNNs) to support early detection of Acute Lymphoblastic Leukemia (ALL) in children through automated analysis of blood smear images. Built as part of my research focus in AI/ML for pediatric oncology.
 # Leukemia Detection Using Convolutional Neural Networks (CNN)
 
@@ -6,7 +6,7 @@ This project focuses on applying **Deep Learning** to assist in the **early dete
 
 ---
 
-## 🎯 Project Goal
+ Project Goal
 To build a CNN-based image classification model that can distinguish between:
 - Normal lymphocyte cells  
 - Leukemic (ALL) lymphoblast cells
@@ -15,7 +15,7 @@ This serves as a foundational research project in my journey toward AI/ML in Ped
 
 ---
 
-## 🧠 Why This Matters
+ Why This Matters
 - Leukemia is the most common cancer in children.
 - Early detection dramatically increases survival rates.
 - Manual diagnosis using microscopes is slow and error-prone.
@@ -23,7 +23,7 @@ This serves as a foundational research project in my journey toward AI/ML in Ped
 
 ---
 
-## 🗂️ Dataset
+ Dataset
 Dataset: ALL-IDB2  
 The dataset is categorized into four distinct morphological stages:
 1. **Benign** (Normal Lymphocytes)
@@ -42,7 +42,7 @@ Dataset Source → (I will add links after the notebook setup)
 
 ---
 
-## 🏗️ Model Architecture (Simple CNN)
+ Model Architecture (Simple CNN)
 The model is built using:
 - Convolution layers
 - Max-pooling layers
@@ -58,7 +58,7 @@ This architecture is chosen for:
 
 ---
 
-## 🔧 Technologies Used
+ Technologies Used
 | Category | Tools |
 |---|---|
 | Programming | Python |
@@ -69,7 +69,7 @@ This architecture is chosen for:
 
 ---
 
-## 📊 What Will Be Evaluated
+ What Will Be Evaluated
 - Training accuracy and validation accuracy
 - Loss curves
 - Confusion matrix
@@ -79,7 +79,7 @@ Visual results of the model will be saved in a `results/` folder.
 
 ---
 
-## 🚀 Next Steps (Planned Enhancements)
+ Next Steps (Planned Enhancements)
 | Stage | Upgrade |
 |---|---|
 | Project 2 | Transfer Learning using ResNet50 |
@@ -88,7 +88,7 @@ Visual results of the model will be saved in a `results/` folder.
 
 ---
 
-## 👩🏽‍💻 Research Direction
+ Research Direction
 This project is part of my long-term research pathway into:
 
 AI for Pediatric Oncology → Early Detection → Personalized Treatment Recommendations
